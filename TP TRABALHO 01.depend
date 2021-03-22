@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1615771294 source:c:\users\fabricio\desktop\unb\2021\trabalho tp1\tp trabalho 01\dominio.cpp
+	"Dominio.h"
+	<string.h>
+	<iostream>
+	<cstring>
+
+1615678749 c:\users\fabricio\desktop\unb\2021\trabalho tp1\tp trabalho 01\dominio.h
+	<stdexcept>
+
+1615334949 source:c:\users\fabricio\desktop\unb\2021\trabalho tp1\tp trabalho 01\entidade.cpp
+	"Entidade.h"
+
+1615770860 c:\users\fabricio\desktop\unb\2021\trabalho tp1\tp trabalho 01\entidade.h
+	"Dominio.h"
+	<string>
+
+1615771414 source:c:\users\fabricio\desktop\unb\2021\trabalho tp1\tp trabalho 01\main.cpp
+	<iostream>
+	"Dominio.h"
+	"Entidade.h"
+	"Teste.h"
+
+1615771333 c:\users\fabricio\desktop\unb\2021\trabalho tp1\tp trabalho 01\teste.h
+	"Dominio.h"
+	"Entidade.h"
+
+1615771260 source:c:\users\fabricio\desktop\unb\2021\trabalho tp1\tp trabalho 01\teste.cpp
+	"Teste.h"
+
